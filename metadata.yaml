@@ -1,0 +1,28 @@
+_repo: A-message-from-Mars-b-A-fantastic-comedy-in-three-acts_74852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ganthony, Richard
+    gutenberg_agent_id: '57686'
+    url: http://www.gutenberg.org/2009/agents/57686
+description: ''
+gutenberg_issued: '2024-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74852'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3553839
+pgterms:marc905: 20200714091309ganthony
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell, University of South Dakota and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bSamuel French, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A message from Mars : $b A fantastic comedy in three acts'
+url: http://www.gutenberg.org/ebooks/74852
